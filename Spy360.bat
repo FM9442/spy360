@@ -1,6 +1,5 @@
-REM  
 @echo off
-Title 1.1 Spy by FM
+Title 1.1 Spy360 by github.com/fm9442
 REM  ------ couleur du texte vert
 color E
 chcp 65001
@@ -41,9 +40,9 @@ echo -system information: OK
 
 REM  ------ recuperation de tous les repertoires a partir de c:
 
-tree C: >Report\treeC.txt
+tree >Report\tree.txt
 echo -organization folders: OK
-
+echo it will stuck for 10 second but don't panic!
 net view >Report\netview.txt
 echo -computers on the network OK
 
