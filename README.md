@@ -21,3 +21,7 @@ just open spy360 main files and put your wifi name
 
 
 or the wifi you want to know the password who save on your laptop)
+
+and then wait, it will also delete temporaly files for erase evidence.
+
+You will find all infos in the directory called "Report" who got created.
